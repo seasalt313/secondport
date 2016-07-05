@@ -1,0 +1,15 @@
+body {
+	width: 600px;
+	background-color: black;
+	color: #F6E2BB;
+}
+
+footer {
+	height: 20px;
+	width: 600px;
+	margin: auto;
+	background-color: #D8C8B8;
+	color: #fff;
+	border:  10px solid #F6E2BB;
+	padding: 20px;
+}
